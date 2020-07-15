@@ -45,7 +45,7 @@ Python:
 - Modifying dataframes e.g.: 
   - creating new columns
   - performing column operations 
-- Calculating command statistics: len()
+- Calculating command statistics
 - Calculating aggregate functions: groupby
 - Selecting columns & rows with logic: apply, lambda, groupby, reset_index(), relational operators
 - Lambda function 
@@ -60,3 +60,16 @@ Python:
 4. Yelp Regression Project 
 Machine Learning 
 - Builds a linear regression model predicting a restaurant's Yelp rating
+Processes include from Python:
+- Importing data
+- Inspecting data
+- Calculating command statistics
+- Selecting columns & rows with logic
+- Merging data 
+- Cleaning data 
+- Modifying data 
+- Exploratory analysis 
+- Data visualization: Matplotlib
+- Creating the Linear Regression Model 
+- Evaluating the model 
+
