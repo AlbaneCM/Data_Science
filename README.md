@@ -1,6 +1,7 @@
 # Data_Science
 Summary of topics learned on Codecademy through the Data Science career path. 
-They are ordered chronologically ordered, so MuscleHub is the most recent and includes the most recent topics reviewed in the course.  
+Projects are from the Codecademy's course.
+They are chronologically ordered, so the highest number is the most recent and includes the most recent topics reviewed.  
 
 
 1. Life Expectancy corresponds to:
@@ -56,3 +57,6 @@ Python:
 - Data visualization:
   - matplotlib
 
+4. Yelp Regression Project 
+Machine Learning 
+- Builds a linear regression model predicting a restaurant's Yelp rating
