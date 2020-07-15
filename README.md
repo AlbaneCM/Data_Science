@@ -4,6 +4,20 @@ They are ordered chronologically ordered, so MuscleHub is the most recent and in
 
 
 1. Life Expectancy corresponds to:
+- Data inspection: 
+  - Loading csv files
+  - head()
+  - unique()
+- Modifying dataframes:
+  - Renaming columns within dataframe
+- Data visualtion:
+  - Seaborn:
+    - barplot 
+    - violinplot
+    - barplot including hue 
+    - scatterplot 
+    - lineplot
+
 
 2. Biodiversity displays a summary of Python operations, including: 
 - Modifying dataframes e.g.: 
