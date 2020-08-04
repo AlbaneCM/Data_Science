@@ -76,3 +76,5 @@ Processes include from Python:
 5. Tic tac to 
 Machine Learning 
 - Building Tic tac toe game using minimax algorithm to make decision as to which of "X" or "O" to play 
+- 5_a_tic_tac_toe is the first file to run, where the algorithm is defined
+- 5_b_playing_game is the file allowing to play the game, either you against computer or computer against itself
