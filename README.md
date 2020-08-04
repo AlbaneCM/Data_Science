@@ -73,3 +73,6 @@ Processes include from Python:
 - Creating the Linear Regression Model 
 - Evaluating the model 
 
+5. Tic tac to 
+Machine Learning 
+- Building Tic tac toe game using minimax algorithm to make decision as to which of "X" or "O" to play 
