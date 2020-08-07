@@ -78,3 +78,11 @@ Machine Learning
 - Building Tic tac toe game using minimax algorithm to make decision as to which of "X" or "O" to play 
 - 5_a_tic_tac_toe is the first file to run, where the algorithm is defined
 - 5_b_playing_game is the file allowing to play the game, either you against computer or computer against itself
+
+6.a- Viral_tweets 
+- Determining which features of a tweet are most likely to make it go viral, using K-Nearest Neighbor algorithm 
+6. b-Tweet location
+- Determining a tweet's location between New York, London or Paris based on its words.
+- Classifying using Naive Bayes Classifier and Count Vectors to transform our list of words into count vectors before classifying and predicting which location the tweet was written from 
+- Evaluating the model both using accuracy_score and confusion_matrix
+
