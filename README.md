@@ -86,3 +86,5 @@ Machine Learning
 - Classifying using Naive Bayes Classifier and Count Vectors to transform our list of words into count vectors before classifying and predicting which location the tweet was written from 
 - Evaluating the model both using accuracy_score and confusion_matrix
 
+7. Unsupervised machine learning: Handwriting recognition using K-Means clustering
+
