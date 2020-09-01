@@ -5,7 +5,8 @@ They are chronologically ordered, so the highest number is the most recent and i
 
 
 1. Life Expectancy project:
-Dataset from the WHO. 
+Life Expectancy dataset source: WHO. 
+GDP Source: World Bank national accounts data, and OECD National Accounts data files.
 Investigating if there is a strong correlation between the economic output of a country and the life expectancy of its citizens.  
 
 2. Biodiversity displays a summary of Python operations, including: 
