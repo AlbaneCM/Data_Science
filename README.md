@@ -4,21 +4,9 @@ Projects are from the Codecademy's course.
 They are chronologically ordered, so the highest number is the most recent and includes the most recent topics reviewed.  
 
 
-1. Life Expectancy corresponds to:
-- Data inspection: 
-  - Loading csv files
-  - head()
-  - unique()
-- Modifying dataframes:
-  - Renaming columns within dataframe
-- Data visualtion:
-  - Seaborn:
-    - barplot 
-    - violinplot
-    - barplot including hue 
-    - scatterplot 
-    - lineplot
-
+1. Life Expectancy project:
+Dataset from the WHO. 
+Investigating if there is a strong correlation between the economic output of a country and the life expectancy of its citizens.  
 
 2. Biodiversity displays a summary of Python operations, including: 
 - Modifying dataframes e.g.: 
