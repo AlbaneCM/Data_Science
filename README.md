@@ -79,3 +79,13 @@ Machine Learning
 
 8. Natural Language Processing using Parsing with Regular Expressions 
 
+10. Machine Learning Summary Project 
+- Using a combination of machine learning models 
+  - Classification
+    - K-nearest Neighbors 
+    - Support Vector Machines
+  - Regression 
+    - Multiple Linear Regression 
+    - K-Nearest Neighbor Regressor 
+
+
