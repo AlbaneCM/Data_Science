@@ -79,7 +79,7 @@ Machine Learning
 
 8. Natural Language Processing using Parsing with Regular Expressions 
 
-10. Machine Learning Summary Project 
+10. Machine Learning Summary Project - Working on data from OKCupid
 - Using a combination of machine learning models 
   - Classification
     - K-nearest Neighbors 
